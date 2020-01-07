@@ -958,8 +958,8 @@ specific Ubuntu versions under 'For the impatient' below.
   `doxygen`.
 * **version control** (optional): git; `git`.
 * **Bindings** (optional): [SWIG](http://www.swig.org/) 3.0.8; `swig`.
-    * **MATLAB scripting** (optional): [Java development kit][java] >= 1.7;
-      `openjdk-7-jdk`.
+    * **MATLAB scripting** (optional): [Java development kit][java] >= 1.8;
+      `openjdk-8-jdk`.
         * Note: Older versions of MATLAB may use an older version of JVM. Run
                 'ver' in MATLAB to check MATLAB's JVM version (must be >= 1.7).
         * Note: Java development kit >= 9 requires CMake >= 3.10.
@@ -971,7 +971,7 @@ For example, you could get the required dependencies (except Simbody) via:
 
 And you could get all the optional dependencies via:
 
-    $ sudo apt-get install doxygen git swig openjdk-7-jdk python-dev
+    $ sudo apt-get install doxygen git swig openjdk-8-jdk python-dev
 
 #### Download the OpenSim-Core source code
 
