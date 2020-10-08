@@ -1,0 +1,3 @@
+[submodule "dependencies/BTKCore"]
+	path = dependencies/BTKCore
+	url = https://github.com/VisSimKoblenz/BTKCore.git
