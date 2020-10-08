@@ -4,6 +4,6 @@
 [submodule ".\\dependencies\\docopt"]
 	path = .\\dependencies\\docopt
 	url = https://github.com/VisSimKoblenz/docopt.cpp.git
-[submodule ".\\dependencies\\BTK"]
-	path = .\\dependencies\\BTK
+[submodule ".\\dependencies\\BTKCore"]
+	path = .\\dependencies\\BTKCore
 	url = https://github.com/VisSimKoblenz/BTKCore.git
