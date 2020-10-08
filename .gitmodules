@@ -1,3 +1,6 @@
 [submodule "dependencies/BTKCore"]
 	path = dependencies/BTKCore
 	url = https://github.com/VisSimKoblenz/BTKCore.git
+[submodule "dependencies/docopt"]
+	path = dependencies/docopt
+	url = https://github.com/VisSimKoblenz/docopt.cpp.git
