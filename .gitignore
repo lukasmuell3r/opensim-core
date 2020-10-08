@@ -20,7 +20,7 @@ install
 *.pyc
 
 # Ignore directories under 'dependencies'
-dependencies/*
+# dependencies/*
 
 # Ignore log files from OpenSim crashing
 *.log

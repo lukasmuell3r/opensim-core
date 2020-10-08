@@ -1,0 +1,9 @@
+[submodule ".\\dependencies\\simbody"]
+	path = .\\dependencies\\simbody
+	url = https://github.com/VisSimKoblenz/simbody.git
+[submodule ".\\dependencies\\docopt"]
+	path = .\\dependencies\\docopt
+	url = https://github.com/VisSimKoblenz/docopt.cpp.git
+[submodule ".\\dependencies\\BTK"]
+	path = .\\dependencies\\BTK
+	url = https://github.com/VisSimKoblenz/BTKCore.git
