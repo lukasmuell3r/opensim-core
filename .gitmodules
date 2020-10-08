@@ -4,3 +4,6 @@
 [submodule "dependencies/docopt"]
 	path = dependencies/docopt
 	url = https://github.com/VisSimKoblenz/docopt.cpp.git
+[submodule "dependencies/simbody"]
+	path = dependencies/simbody
+	url = https://github.com/VisSimKoblenz/simbody.git
