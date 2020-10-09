@@ -4,3 +4,6 @@
 [submodule "dependencies/simbody"]
 	path = dependencies/simbody
 	url = https://github.com/VisSimKoblenz/simbody.git
+[submodule "dependencies/BTK"]
+	path = dependencies/BTK
+	url = https://github.com/VisSimKoblenz/BTKCore.git
